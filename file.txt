@@ -1,0 +1,6 @@
+Skills:
+CSS
+HTML
+JIRA
+MySQL
+Postman
